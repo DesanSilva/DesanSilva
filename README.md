@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+DESAN;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+DESAN;Data+Engineer+%26+Developer" alt="Typing SVG" />
 </h1>
 
-![My Languages](https://img.shields.io/badge/-My%20Languages-6f42c1?style=for-the-badge&logo=code&logoColor=white)
-</p>
+### Languages & Core Tech
+![My Languages](https://img.shields.io/badge/-My%20Languages-8F3F71?style=for-the-badge&logo=code&logoColor=FDF6E3)
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="80">
@@ -24,7 +24,8 @@
   </tr>
 </table>
 
-![Other Tools and Frameworks](https://img.shields.io/badge/-Other%20Tools%20and%20Frameworks-1f6feb?style=for-the-badge&logo=tools&logoColor=white)
+### Frameworks, Databases & Data Engineering Tools
+![Other Tools and Frameworks](https://img.shields.io/badge/-Tools%20%26%20Frameworks-458588?style=for-the-badge&logo=tools&logoColor=FDF6E3)
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="80">
@@ -62,6 +63,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -72,17 +75,39 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
       </a>
     </td>
+    <!-- Added Hadoop -->
+    <td align="center" width="80">
+      <a href="https://hadoop.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Added Spark -->
+    <td align="center" width="80">
+      <a href="https://spark.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Added MLflow -->
+    <td align="center" width="80">
+      <a href="https://mlflow.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" alt="MLflow" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
-![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-22863a?style=for-the-badge&logo=github&logoColor=white)
+
+### Activity Metrics
+![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-98971A?style=for-the-badge&logo=github&logoColor=FDF6E3)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanSilva&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=10" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanSilva&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_radius=10" width="40%" alt="Top Languages"/>
 </p>
 
 ---
-![Connect with me](https://img.shields.io/badge/-Connect%20with%20me-d93f0b?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### Professional Network & Contact
+![Connect with me](https://img.shields.io/badge/-Connect%20with%20me-D65D0E?style=for-the-badge&logo=linkedin&logoColor=FDF6E3)
 <p align="left">
   <a href="https://www.linkedin.com/in/DesanSilva/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
