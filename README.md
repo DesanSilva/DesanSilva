@@ -54,7 +54,7 @@
       <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" width="40"/></a>
+      <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="40"/></a>
   </tr>
 
   <tr>
@@ -80,12 +80,7 @@
       <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://mlflow.org/" target="_blank">
-        <svg role="img" viewBox="0 0 24 24" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-          <title>MLflow</title>
-          <path fill="#0194E2" d="M11.883.002a12.044 12.044 0 0 0-9.326 19.463l3.668-2.694A7.573 7.573 0 0 1 12.043 4.45v2.867l6.908-5.14A12.012 12.012 0 0 0 11.883.002zm9.562 4.533L17.777 7.23a7.573 7.573 0 0 1-5.818 12.322v-2.867l-6.908 5.14a12.046 12.046 0 0 0 16.394-17.29z"/>
-        </svg>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" width="40"/></a>
     </td>
   </tr>
@@ -120,15 +115,9 @@
 ## Professional Network & Contact
 <p align="left">
   <img src="https://img.shields.io/badge/-Connect-D65D0E?style=for-the-badge&logo=linkedin&logoColor=FDF6E3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/DesanSilva/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" width="36" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/desansilva1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="36" width="36" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/DesanSilva" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" height="36" width="36" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/DesanSilva/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" width="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/desansilva1" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="36" width="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/DesanSilva" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" height="36" width="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:desansilva0@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" height="36" width="36" />
   </a>
