@@ -4,8 +4,6 @@
 <span style="color:#458588;"><b>Open Source Enthusiast</b></span>
 </p>
 
-<p align="center">Computer Science & Data Science student interested in data engineering, machine learning, and software development. I enjoy building scalable data systems and developing practical ML solutions.</p>
-
 ---
 
 ## Tech Stack
