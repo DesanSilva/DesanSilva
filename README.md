@@ -6,98 +6,99 @@
 
 ---
 
-## Tech Stack
+## Professional Summary
 
+Computer Science student specializing in Data Science and Machine Learning. Focused on bridging ML/DL theory with production-ready execution environments. Experienced in architecting scalable infrastructure, from MLOps and distributed Big Data processing pipelines to custom Information Retrieval engines.
+
+---
+
+## Technical Expertise
+
+<div align="center">
 <table>
   <tr>
-    <td>
-
-![Languages](https://img.shields.io/badge/-Languages-b16286?style=for-the-badge&logo=code&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/></a>
+    <td align="right"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"/></a>
     </td>
   </tr>
 
   <tr>
-    <td>
-
-![Developer Tools](https://img.shields.io/badge/-Developer%20Tools-458588?style=for-the-badge&logo=gnubash&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://www.kernel.org/category/about.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://docs.astral.sh/uv/" target="_blank"><img src="https://cdn.simpleicons.org/uv/DE5FE9" alt="uv" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://neovim.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
-</a>
+    <td align="right"><b>Developer Tools</b></td>
+    <td align="left">
+      <a href="https://www.kernel.org/category/about.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://docs.astral.sh/uv/" target="_blank"><img src="https://cdn.simpleicons.org/uv/DE5FE9" alt="uv" width="35" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://neovim.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="35" height="35"/></a>
     </td>
   </tr>
 
   <tr>
-    <td>
-
-
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-cc241d?style=for-the-badge&logo=apache&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://hadoop.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="40"/></a>
-  </tr>
-
-  <tr>
-    <td>
-
-![Databases](https://img.shields.io/badge/-Databases-d79921?style=for-the-badge&logo=postgresql&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/></a>
+    <td align="right"><b>Data Engineering</b></td>
+    <td align="left">
+      <a href="https://hadoop.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="35"/></a>
     </td>
   </tr>
 
   <tr>
-    <td>
-
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-689d6a?style=for-the-badge&logo=pytorch&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" width="40"/></a>
+    <td align="right"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/></a>
     </td>
   </tr>
 
   <tr>
-    <td>
+    <td align="right"><b>Machine Learning</b></td>
+    <td align="left">
+      <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" width="35" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jupyter.svg" width="35"/></a>
+    </td>
+  </tr>
 
-![Visualization](https://img.shields.io/badge/-Visualization-d65d0e?style=for-the-badge&logo=plotly&logoColor=FDF6E3)
-
-</td>
-    <td>
-      <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://dash.plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://bokeh.org/" target="_blank"><img src="https://static.bokeh.org/logos/logo.png" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo-seaborn.png" width="40"/></a>
+  <tr>
+    <td align="right"><b>Visualization</b></td>
+    <td align="left">
+      <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://dash.plotly.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://bokeh.org/" target="_blank"><img src="https://static.bokeh.org/logos/logo.png" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo-seaborn.png" width="35"/></a>
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science (BSc) Undergraduate**\
+*University of Colombo School of Computing*
+
+**Bachelor of Science in Data Science (BSc) Undergraduate**\
+*National Institute of Business Management (NIBM)*
+* Core Focus: Data Engineering, Machine Learning Applications, Statistical Modeling, and Technical Documentation.
+
+---
+
+## Reasearch
+
+* **Learned Interface Coupling in Physics-Informed Neural Networks for Parametric Conjugate Heat Transfer:** Research and implementation of PINNs, AA-PINNs, and X-PINNs for conjugate heat transfer and 3D fluid dynamics, utilizing OpenFOAM simulation environments.
+* **Structural Health Time Series Modeling:** Time series analysis pipelines evaluating structural acceleration data (Z24 bridge dataset) including burst acquisition handling, ARIMA modeling, and sym12 wavelet denoising in R.
 
 ---
 
