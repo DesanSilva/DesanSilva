@@ -102,15 +102,6 @@ Computer Science student specializing in Data Science and Machine Learning. Focu
 
 ---
 
-## Activity Metrics
-![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-98971A?style=for-the-badge&logo=github&logoColor=FDF6E3)
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanSilva&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_radius=10"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DesanSilva&show_icons=true&theme=gruvbox&hide_border=true"/>
-
----
-
 ## Professional Network & Contact
 <p align="left">
   <img src="https://img.shields.io/badge/-Connect-D65D0E?style=for-the-badge&logo=linkedin&logoColor=FDF6E3" />&nbsp;&nbsp;&nbsp;&nbsp;
