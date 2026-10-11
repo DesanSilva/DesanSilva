@@ -95,7 +95,7 @@ Computer Science student specializing in Data Science and Machine Learning. Focu
 
 ---
 
-## Reasearch
+## Research
 
 * **Learned Interface Coupling in Physics-Informed Neural Networks for Parametric Conjugate Heat Transfer:** Research and implementation of PINNs, AA-PINNs, and X-PINNs for conjugate heat transfer and 3D fluid dynamics, utilizing OpenFOAM simulation environments.
 * **Structural Health Time Series Modeling:** Time series analysis pipelines evaluating structural acceleration data (Z24 bridge dataset) including burst acquisition handling, ARIMA modeling, and sym12 wavelet denoising in R.
